@@ -40,6 +40,7 @@ Você será bem avaliado se usar:
 Imagem: https://undraw.co/illustrations
 Fonte: https://fonts.google.com/
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/33f32398-a646-4723-bda1-b24204ba24c5/deploy-status)](https://app.netlify.com/sites/carlos-moraes2-formulario/deploys)
 - Página pessoal
 - @carlos.mdmoraes_  
 - GitHub Carlos-Moraes2
